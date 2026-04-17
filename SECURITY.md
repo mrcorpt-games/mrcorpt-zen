@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security issue in `mrcorpt-zen`, please report it so we can address it responsibly.
+If you discover a security issue in `mrcorpt-games-zen`, please report it so we can address it responsibly.
 
 Preferred reporting methods:
 
