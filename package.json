@@ -1,7 +1,7 @@
 {
   "name": "mrcorpt-games-zen",
   "description": "toggle extraneous UI elements (mrcorpt.js plugin)",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "zen.js",
   "keywords": [
     "mrcorpt",
