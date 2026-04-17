@@ -18,5 +18,5 @@ Requires kb-bindings with
 
 ## License
 
-MIT
+GNU GENERAL PUBLIC LICENSE
 
